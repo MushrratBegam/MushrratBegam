@@ -1,4 +1,4 @@
-<h1 align="center">Mushrrat Begam</h1>
+<h1 align="center">Hi 👋, I'm Mushrrat Begam</h1>
 
 <h3 align="center">
 I am Mushrrat, a passionate Data Science & AI graduate from India. Exploring Python, Machine Learning & Power BI to turn data into meaningful insights and build data-driven solutions.
