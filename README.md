@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mushrrat</h1>
 
 <h3 align="center">
-I am Mushrrat, a passionate Data Science & AI graduate from India. Exploring Python, Machine Learning & Power BI to turn data into meaningful insights and build data-driven solutions.
+I’m Mushrrat, a B.Tech (CSE – Data Science) graduate with hands-on experience in Python, Machine Learning, SQL, Excel & Power BI. I build dashboards and ML projects that turn raw data into actionable insights, and I’m looking for an entry-level Data Analyst / Data Scientist role.
 </h3>
 
 <p align="center">
